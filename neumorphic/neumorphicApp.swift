@@ -11,7 +11,7 @@ import SwiftUI
 struct neumorphicApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
